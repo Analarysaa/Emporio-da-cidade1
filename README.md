@@ -24,7 +24,7 @@ Léo da Silva Quallio
 
 Usuário precisa clonar o projeto com o comando:
 
-GIT CLONE https://github.com/Analarysa/Emporio-da-cidade/edit/main/README.md
+GIT CLONE "https://github.com/Analarysa/Emporio-da-cidade"
 
 É necessario ter o Docker instalado.
 
@@ -41,7 +41,8 @@ Se seguir todos os passos o projeto é executado com sucesso.
 
 É preciso ter instaldo o Flutter, para que tudo funcione conforme desejado.
 
-Clone o projeto Flutter
+Clone o projeto Flutter com o comando:
+GIT CLONE "https://github.com/Analarysa/Emporio-da-cidade"
 
 Abra o leitor de codigo
 Execute o comando:
