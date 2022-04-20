@@ -11,6 +11,7 @@ Léo da Silva Quallio
   
 # Tecnologia usada - BACKEND
 • Java com Spring, Jpa e hibernate.
+
 • Postgres como banco de dados. 
 
 # Tecnologia usada - FRONTEND
